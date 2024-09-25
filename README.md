@@ -24,6 +24,3 @@ I’m learning Python because of its simplicity, versatility, and wide use in da
 - **Pandas**: The core library for data manipulation and analysis.
 - **Jupyter Notebooks**: To write and run the data analysis code interactively.
 
-## Contact
-
-
